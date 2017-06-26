@@ -4,9 +4,6 @@ int main()
 
 {
    int a;
-   int b;
-   float c;
-
 	printf("\n hello");
   
 
